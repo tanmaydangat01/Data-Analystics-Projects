@@ -1,44 +1,0 @@
-            Application in Real Life Scenario Case Study
-
-Description:
-The scenario focuses on the use of data analytics in the
-transportation to optimize route planning and reduce travel time
-for passengers to travel across different places.
-
-
-
-
-Planning:
-It is the basic step of gathering the requirements in data analytics.
-It defines the goal of the objective to reduce the time taken by the
-passenger in the transportation industry
-Prepare:
-In this step, we gather relevant data from various sources, such
-as GPS tracking, traffic patterns, and public transportation
-schedules.
-
-Process:
-Process transform the data into a usable format. Which includes
-the execution and implementation of the routes and accessible
-roads that reduces the travel time
-Key Elements:
-
-
-
-
-Analysis:
-We have to choose that route which requires less time to reach
-the destination . It may depends on the Traffic , the time it
-requires to reach the destination , optimal travel times and based
-on some other circumstances.
-
-Share:
-To identify the best routes which takes the optimal time than the
-required time to reach the destination
-
-Act:
-Implement the suggested improvements, like adjusting routes and
-schedules based on insights.
-You finally choose that route after the analysis which required less
-time to reach the different places.
-
